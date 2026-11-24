@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this edition, please cite it as below."
+title: "Zacharias Frankel, Mevo ha-Yerushalmi: reading edition with English translation"
+type: dataset
+authors:
+  - family-names: Brand
+    given-names: Ezra
+abstract: "The first modern introduction to the Jerusalem Talmud, with an English translation paragraph by paragraph. Paragraph-aligned Hebrew and English; Hebrew from Kraken OCR checked against the scan."
+license: CC-BY-SA-4.0
+url: "https://openseforim.org/frankel-mevo/"
+repository-code: "https://github.com/openseforim/frankel-mevo"
+keywords:
+  - "Judaica"
+  - "Hebrew"
+  - "digital humanities"
+  - "translation"
+  - "digital edition"
