@@ -1,0 +1,10 @@
+# page images, line images, OCR runs and experiments (large or reproducible)
+data/pages/
+data/pages_all/
+data/test*/
+data/text/
+data/view/
+data/*.png
+logs/
+__pycache__/
+LOCAL_RUN_CANCELLED.txt
