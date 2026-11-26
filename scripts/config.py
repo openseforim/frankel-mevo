@@ -59,5 +59,5 @@ WORK = {"schema": 1, "slug": "frankel-mevo", "order": 36, "kind": "translation",
         "base_edition": {"label": "Breslau 1870; Potsdam scan", "scan_url": "https://digital.ub.uni-potsdam.de/content/titleinfo/320753"},
         "method": "Paragraph-aligned Hebrew and English; Hebrew from Kraken OCR checked against the scan.",
         "cite": "Zacharias Frankel, *Mevo ha-Yerushalmi*, Hebrew text with English translation, ed. Ezra Brand. Open Seforim",
-        "url": "https://openseforim.org/frankel-mevo/", "repo": "https://github.com/openseforim/frankel-mevo",
+        "url": "https://openseforim.org/frankel-mevo/", "repo": "https://github.com/openseforim/frankel-mevo", "doi": "10.5281/zenodo.24559622",
         "licence": {"name": "CC BY-SA 4.0", "url": "https://creativecommons.org/licenses/by-sa/4.0/"}}
